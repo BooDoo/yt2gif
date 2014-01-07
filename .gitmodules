@@ -1,0 +1,3 @@
+[submodule "CvVideo"]
+	path = CvVideo
+	url = https://github.com/BooDoo/CvVideo.git
